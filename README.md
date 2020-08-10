@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá Pessoal👋
 
-<!--
-**nathanbraz/nathanbraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou entusiasta em programação. Sempre tentando melhorar e aprender novas tecnologias que me proporcione um bom futuro na área de desenvolvimento.
 
-Here are some ideas to get you started:
+Trabalho como Programador Júnior e frequento faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Foco no momento em TypeScript, juntamente com tecnologias como NodeJs, ReactJs e React Native.
+
+Sobre mim: Gosto de Jogos, programação e pescar.
+
+OBJETIVO: Seguir na carreira como programador, com uma outra visão e maior experiência, com mais conhecimento e desenvolver aplicativos web e mobile.
+
+Entre em contato comigo através de:
+
+Gmail - nathanbrz09@gmail.com
+LinkedIn - https://www.linkedin.com/in/nathanbraz/
+Discord - sr_Nathan#3869
