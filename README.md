@@ -1,4 +1,4 @@
-### Olá Pessoal👋
+### Olá,
 
 Sou entusiasta em programação. Sempre tentando melhorar e aprender novas tecnologias que me proporcione um bom futuro na área de desenvolvimento.
 
