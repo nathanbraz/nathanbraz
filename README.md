@@ -1,8 +1,8 @@
 ### Olá,
 
-Sou entusiasta em programação. Sempre tentando melhorar e aprender novas tecnologias que me proporcione um bom futuro na área de desenvolvimento.
+Programador Web. Sempre tentando melhorar e aprender novas tecnologias que me proporcione um bom futuro na área de desenvolvimento.
 
-Trabalho como Programador Júnior e frequento faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas.
+Trabalho como Programador Júnior e sou formado no curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 Foco no momento em TypeScript, juntamente com tecnologias como NodeJs, ReactJs e React Native.
 
