@@ -6,7 +6,7 @@ Trabalho como Programador Júnior e sou formado no curso de Tecnologia em Análi
 
 Foco no momento em TypeScript, juntamente com tecnologias como NodeJs, ReactJs e React Native.
 
-Sobre mim: Gosto de Jogos, programação e pescar.
+Sobre mim: Gosto de Jogos e programação.
 
 OBJETIVO: Seguir na carreira como programador, com uma outra visão e maior experiência, com mais conhecimento e desenvolver aplicativos web e mobile.
 
