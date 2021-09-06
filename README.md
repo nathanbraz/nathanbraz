@@ -1,5 +1,5 @@
 ### Hello World,
-I'm Nathan Braz, from Brazil, graduated in Systems Analysis and Development, passionate about front-end and back-end. I currently work with C#/.NET but I'm delving into Javascript and studying ReactJs and Nodejs technologies, and my goal at the moment is to specialize in the front-end as I really like the interface, and I'm always looking to learn more and trying to achieve the next level.
+I'm Nathan Braz, from Brazil, graduated in Systems Analysis and Development, passionate about front-end and back-end. Currently I'm delving into Javascript and studying ReactJs and Nodejs technologies, and my goal at the moment is to specialize in the front-end as I really like the interface, and I'm always looking to learn more and trying to achieve the next level.
 
 
  <div>
