@@ -1,5 +1,5 @@
 ### Hello World,
-I'm Nathan Braz, from Brazil, graduated in Systems Analysis and Development, passionate about front-end and back-end. Currently I'm delving into Javascript and studying ReactJs and Nodejs technologies, and my goal at the moment is to further improve my knowledge in front-end and back-end, with small projects made by me and through courses, always looking to learn more and try to reach the next level.
+I'm Nathan Braz, from Brazil, graduated in Systems Analysis and Development, passionate about front-end and back-end. Currently I'm delving into Javascript and studying ReactJs and Nodejs technologies, and my goal at the moment is to further improve my knowledge in front-end and back-end, with small projects made by me and through courses, always looking to learn more and try to reach the next level 🚀.
 
 
  <div>
